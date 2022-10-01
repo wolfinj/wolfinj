@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/wolfinj)
 <!--
 **wolfinj/wolfinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
