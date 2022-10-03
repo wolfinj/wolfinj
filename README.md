@@ -1,7 +1,11 @@
-# **Hi there 👋**
-<img src="https://s.tcdn.co/2bd/b4a/2bdb4af0-4f7c-3cf2-929f-4ad191029913/13.png" style="float: left;" width="300px"> tesxt
+<h1 style="text-align: center">Welcome to my humble repo</h1>
+<img  src="https://s.tcdn.co/2bd/b4a/2bdb4af0-4f7c-3cf2-929f-4ad191029913/13.png" width="300px" />
 
+---
 
+For me, one of the best feelings is when you finish writing code and it just works. And it never goes away. To create something beautiful that you want to use yourself is the best feeling in the world.
+          
+   
  
 
 [![Spotify](https://novatorem-wolfinj.vercel.app/api/spotify)](https://open.spotify.com/user/wolfinj)
@@ -19,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
