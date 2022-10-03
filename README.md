@@ -11,4 +11,8 @@ For me, one of the best feelings is when you finish writing code and it just wor
 
 ---
 
-<img align="left" src="SVG/linkedin.svg" alt="LinkedIn Logo" width="250"  height="250"/>[![Spotify](https://novatorem-wolfinj.vercel.app/api/spotify)](https://open.spotify.com/user/wolfinj)
+<a href="https://www.linkedin.com/in/kaspars-eglitis/"><img src="SVG/linkedin.svg" align="right" alt="LinkedIn Logo" height="180" /></a>
+
+<br/>
+
+[![Spotify](https://novatorem-wolfinj.vercel.app/api/spotify)](https://open.spotify.com/user/wolfinj)
