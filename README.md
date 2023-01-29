@@ -1,6 +1,6 @@
 <h1 align="center" style="text-align: center">Welcome to my humble repo</h1>
 <br>
-<img align="right"  src="https://s.tcdn.co/2bd/b4a/2bdb4af0-4f7c-3cf2-929f-4ad191029913/13.png" width="250px" />
+<img align="right"  src="SVG/18.png" width="250px" />
 
 For me, one of the best feelings is when you finish writing code and it just works. And it never goes away. To create something beautiful that you want to use yourself is the best feeling in the world.
 
